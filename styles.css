@@ -81,6 +81,15 @@ h1, h2, h3, h4, h5, h6 {
 
 body {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  padding: var(--spacing-500) var(--spacing-400);
+}
+
+img {
+  max-width: 100%; 
 }
 
