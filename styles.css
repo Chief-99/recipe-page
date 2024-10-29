@@ -86,6 +86,10 @@ body {
   letter-spacing: 0px;
 }
 
+p, ul, ol {
+  font-family: var(--ff-primary);
+}
+
 main {
   padding: var(--spacing-500) var(--spacing-400);
 }
