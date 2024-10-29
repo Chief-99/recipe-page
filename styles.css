@@ -88,6 +88,7 @@ body {
 
 p, ul, ol {
   font-family: var(--ff-primary);
+  color: var(--stone-600);
 }
 
 section {
@@ -111,3 +112,4 @@ h1 {
   color: var(--stone-900);
   line-height: 100%;
 }
+
