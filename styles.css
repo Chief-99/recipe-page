@@ -115,3 +115,10 @@ h1 {
   line-height: 100%;
 }
 
+.preparation-time {
+  background-color: var(--rose-50);
+  padding: var(--spacing-300);
+  border-radius: 0.75rem;
+  gap: var(--spacing-200);
+}
+
