@@ -91,6 +91,11 @@ p, ul, ol {
   color: var(--stone-600);
 }
 
+li {
+  padding-left: var(--spacing-200);
+  margin-bottom: var(--spacing-100);
+}
+
 section, 
 .line-border {
   display: flex;
