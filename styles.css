@@ -136,3 +136,8 @@ h3 {
 span {
   font-weight: var(--fw-bold);
 }
+
+li::marker {
+  color: var(--brown-800);
+  font-weight: bold;
+}
