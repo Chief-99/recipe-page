@@ -122,3 +122,9 @@ h1 {
   gap: var(--spacing-200);
 }
 
+h3 {
+  font-size: var(--fs-500);
+  color: var(--rose-800);
+  font-family: var(--ff-primary);
+  font-weight: var(--fw-bold);
+}
