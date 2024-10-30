@@ -157,3 +157,14 @@ h2 {
 div {
   border-bottom: 1px var(--stone-100) solid;
 }
+
+.nutrients-container {
+  display: flex;
+  justify-content: space-around;
+  padding: var(--spacing-150); 
+}
+
+.bottom-row,
+.nutrients-table {
+  border: none;
+}
