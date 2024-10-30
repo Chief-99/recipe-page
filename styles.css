@@ -10,7 +10,7 @@
   --brown-800: hsl(14, 45%, 36%);
 
   --ff-heading: "Young Serif", serif;
-  --ff-primary: Outift, sans-serif;
+  --ff-primary: Outfit, sans-serif;
 
   --fs-400: 1rem;
   --fs-500: 1.25rem;
@@ -139,7 +139,7 @@ h3 {
 }
 
 span {
-  font-weight: var(--fw-bold);
+  font-weight: var(--fw-semi-bold);
 }
 
 li::marker {
