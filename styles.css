@@ -128,3 +128,7 @@ h3 {
   font-family: var(--ff-primary);
   font-weight: var(--fw-bold);
 }
+
+span {
+  font-weight: var(--fw-bold);
+}
