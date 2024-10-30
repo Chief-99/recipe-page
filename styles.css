@@ -146,3 +146,10 @@ li::marker {
   color: var(--brown-800);
   font-weight: bold;
 }
+
+h2 {
+  font-family: var(--ff-heading);
+  font-size: var(--fs-600);
+  color: var(--brown-800);
+  font-weight: var(--fw-normal);
+}
