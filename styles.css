@@ -91,10 +91,12 @@ p, ul, ol {
   color: var(--stone-600);
 }
 
-section {
+section, 
+.line-border {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-300);
+  margin-bottom: var(--spacing-400); 
 }
 
 main {
