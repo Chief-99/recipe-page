@@ -168,3 +168,8 @@ div {
 .nutrients-table {
   border: none;
 }
+
+.nutrients-amount {
+  color: var(--brown-800);
+  font-weight: var(--fw-semi-bold);
+}
