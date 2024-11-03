@@ -201,3 +201,26 @@ div {
     border-radius: 0.75rem;
   }
 }
+
+@media (min-width: 806px) {
+  body {
+    padding-block: var(--spacing-1600);
+  }
+
+  main, header {
+    padding: var(--spacing-500);
+    max-width: 736px;
+  }
+
+  header {
+    border-radius: 1.5rem 1.5rem 0 0;
+  }
+
+  main {
+    border-radius: 0 0 1.5rem 1.5rem;
+  }
+
+  img { 
+    border-radius: 0.75rem;
+  }
+}
