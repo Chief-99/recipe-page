@@ -108,6 +108,10 @@ main {
   padding: var(--spacing-500) var(--spacing-400);
 }
 
+main, header {
+  max-width: 616px;
+}
+
 img {
   max-width: 100%; 
 }
@@ -172,4 +176,8 @@ div {
 .nutrients-amount {
   color: var(--brown-800);
   font-weight: var(--fw-semi-bold);
+}
+
+@media (min-width: 600px) {
+  
 }
